@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **code.rishabh712@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HvRiT7sF18Yxk0PREblLFJVUmSjfNc2w/view?usp=share_link](https://drive.google.com/file/d/1HvRiT7sF18Yxk0PREblLFJVUmSjfNc2w/view?usp=share_link)
-
 - ⚡ Fun fact **I try to do a single big project rather than multiple small projects.**
 
 <h3 align="left">Connect with me:</h3>
