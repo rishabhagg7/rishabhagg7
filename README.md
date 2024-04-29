@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Android Development**
 
-- 🌱 I’m currently learning **Kotlin and FireBase Integration**
+- 🌱 I’m currently learning **Kotlin, Compose UI and Clean Architecture**
 
 - 👯 I’m looking to collaborate on **Android Dev in Kotlin**
 
