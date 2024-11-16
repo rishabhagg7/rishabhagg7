@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhagg7&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhagg7" /> </p>
 
-- 🔭 I’m currently working on **Backend & Android Development**
+- 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Javascript, Node.js, Express.js, MongoDB, Kotlin, Compose UI and Clean Architecture**
+- 🌱 I’m currently learning **Javascript, Node.js, Express.js, MongoDB, React, Kotlin, Compose UI and Clean Architecture**
 
 - 👯 I’m looking to collaborate on **Web and Android projects**
 
-- 💬 Ask me about **DSA, Kotlin, Android, Backend**
+- 💬 Ask me about **DSA, Kotlin, Android, Web, Backend**
 
 - 📫 How to reach me **code.rishabh712@gmail.com**
 
